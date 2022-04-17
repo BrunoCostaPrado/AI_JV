@@ -34,5 +34,3 @@ while True:
             text = result['text']
             print(text)
             speak(text)
-
-# print(rec.FinalResult())
