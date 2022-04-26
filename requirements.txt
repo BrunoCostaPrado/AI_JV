@@ -2,3 +2,4 @@ SpeechRecognition
 vosk
 PyAudio
 pyttsx3
+snips-nlu
