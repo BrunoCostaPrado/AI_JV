@@ -40,7 +40,7 @@ while True:
             print(text)
             speak(text)
 
-            if text == 'que horas são:' or text == 'me diga as horas' or text == 'horas' or text == 'horario' or text=='hora':
+            if text == 'que horas são:' or text == 'me diga as horas' or text == 'horas' or text == 'horario' or text == 'hora':
                 speak(core.SystemInfo.get_time())
             if text == 'pare':
                 sys.exit()

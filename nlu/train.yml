@@ -42,7 +42,7 @@ commands:
   - commmand:
     input: Abrir email pessoal
     entity: open
-    action: 
+    action:
   - commmand:
     input: Abrir email trabalho
     entity: open
